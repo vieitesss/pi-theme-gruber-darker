@@ -1,3 +1,7 @@
+<div align="center">
+![example image](./assets/example.png)
+</div>
+
 # pi-theme-gruber-darker
 
 Gruber Darker theme for the [Pi coding agent](https://pi.dev/).
