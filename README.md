@@ -1,5 +1,5 @@
 <div align="center">
-![example image](./assets/example.png)
+  <img src="assets/example.png" alt="example image">
 </div>
 
 # pi-theme-gruber-darker
