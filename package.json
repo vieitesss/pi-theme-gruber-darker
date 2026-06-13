@@ -1,6 +1,6 @@
 {
   "name": "pi-theme-gruber-darker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gruber Darker theme for the Pi coding agent.",
   "keywords": [
     "pi-package",
@@ -19,6 +19,7 @@
   "pi": {
     "themes": [
       "./themes"
-    ]
+    ],
+    "image": "https://raw.githubusercontent.com/vieitesss/pi-theme-gruber-darker/main/assets/example.png"
   }
 }
