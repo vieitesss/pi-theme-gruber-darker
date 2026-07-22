@@ -4,7 +4,7 @@
 
 # pi-theme-gruber-darker
 
-Gruber Darker theme for the [Pi coding agent](https://pi.dev/).
+Gruber Darker and Gruber Lighter themes for the [Pi coding agent](https://pi.dev/).
 
 ## Install
 
@@ -12,14 +12,15 @@ Gruber Darker theme for the [Pi coding agent](https://pi.dev/).
 pi install git:github.com/vieitesss/pi-theme-gruber-darker
 ```
 
-Then select `gruber-darker` in `/settings`, or set:
+Then select `gruber-darker` or `gruber-lighter` in `/settings`, or set:
 
 ```json
 {
-  "theme": "gruber-darker"
+  "theme": "gruber-lighter"
 }
 ```
 
-## Theme
+## Themes
 
-The theme is in [`themes/gruber-darker.json`](themes/gruber-darker.json).
+- [`gruber-darker`](themes/gruber-darker.json)
+- [`gruber-lighter`](themes/gruber-lighter.json)

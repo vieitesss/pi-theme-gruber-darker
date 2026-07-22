@@ -1,11 +1,12 @@
 {
   "name": "pi-theme-gruber-darker",
   "version": "1.0.3",
-  "description": "Gruber Darker theme for the Pi coding agent.",
+  "description": "Gruber Darker and Gruber Lighter themes for the Pi coding agent.",
   "keywords": [
     "pi-package",
     "pi-theme",
-    "gruber-darker"
+    "gruber-darker",
+    "gruber-lighter"
   ],
   "license": "MIT",
   "homepage": "https://github.com/vieitesss/pi-theme-gruber-darker#readme",
